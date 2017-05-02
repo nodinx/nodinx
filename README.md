@@ -10,25 +10,25 @@ Born to build better enterprise frameworks and apps
 [![NPM download][download-image]][download-url]
 [![Gitter][gitter-image]][gitter-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg
+[npm-image]: https://img.shields.io/npm/v/nodinx.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/nodinx
 [travis-image]: https://img.shields.io/travis/eggjs/egg.svg?style=flat-square
 [travis-url]: https://travis-ci.org/eggjs/egg
 [codecov-image]: https://codecov.io/gh/eggjs/egg/branch/master/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/eggjs/egg
 [david-image]: https://img.shields.io/david/eggjs/egg.svg?style=flat-square
 [david-url]: https://david-dm.org/eggjs/egg
-[snyk-image]: https://snyk.io/test/npm/egg/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/egg
-[download-image]: https://img.shields.io/npm/dm/egg.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg
+[snyk-image]: https://snyk.io/test/npm/nodinx/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/nodinx
+[download-image]: https://img.shields.io/npm/dm/nodinx.svg?style=flat-square
+[download-url]: https://npmjs.org/package/nodinx
 [gitter-image]: https://img.shields.io/gitter/room/eggjs/egg.svg?style=flat-square
 [gitter-url]: https://gitter.im/eggjs/egg
 
 ## Installation
 
 ```bash
-$ npm install egg --save
+$ npm install nodinx --save
 ```
 
 Node.js >= 6.0.0 required.

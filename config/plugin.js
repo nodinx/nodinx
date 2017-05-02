@@ -37,6 +37,7 @@ module.exports = {
 
   /**
    * file and dir watcher
+   * disabled by allanfish to support single thread mode
    * @member {Object} Plugin#watcher
    * @property {Boolean} enable - `true` by default
    * @since 1.0.0
@@ -70,6 +71,7 @@ module.exports = {
 
   /**
    * local development helper
+   * disabled by allanfish to support single thread mode
    * @member {Object} Plugin#development
    * @property {Boolean} enable - `true` by default
    * @since 1.0.0

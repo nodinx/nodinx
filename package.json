@@ -1,5 +1,5 @@
 {
-  "name": "egg",
+  "name": "nodinx",
   "version": "1.2.0",
   "description": "A web framework's framework for Node.js",
   "keywords": [
@@ -88,8 +88,8 @@
   "scripts": {
     "lint": "eslint app config lib test *.js",
     "test": "npm run lint -- --fix && npm run test-local",
-    "test-local": "egg-bin test",
-    "cov": "egg-bin cov",
+    "test-local": "nodinx-bin test",
+    "cov": "nodinx-bin cov",
     "ci": "npm run lint && npm run cov",
     "doc-server": "node ./scripts/doc.js server",
     "doc-build": "node ./scripts/doc.js build",
