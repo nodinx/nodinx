@@ -10,22 +10,22 @@
 [![npm download][download-image]][download-url]
 
 [npm-image]: https://img.shields.io/npm/v/egg.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg
+[npm-url]: https://npmjs.org/package/nodinx-server
 [travis-image]: https://img.shields.io/travis/eggjs/egg.svg?style=flat-square
 [travis-url]: https://travis-ci.org/eggjs/egg
 [codecov-image]: https://codecov.io/gh/eggjs/egg/branch/master/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/eggjs/egg
 [david-image]: https://img.shields.io/david/eggjs/egg.svg?style=flat-square
 [david-url]: https://david-dm.org/eggjs/egg
-[snyk-image]: https://snyk.io/test/npm/egg/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/egg
-[download-image]: https://img.shields.io/npm/dm/egg.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg
+[snyk-image]: https://snyk.io/test/npm/nodinx-server/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/nodinx-server
+[download-image]: https://img.shields.io/npm/dm/nodinx-server.svg?style=flat-square
+[download-url]: https://npmjs.org/package/nodinx-server
 
 ## 安装
 
 ```bash
-$ npm install egg --save
+$ npm install nodinx-server --save
 ```
 
 支持 Node.js 6.x 以上版本。

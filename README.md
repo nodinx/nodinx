@@ -10,25 +10,25 @@ Born to build better enterprise frameworks and apps
 [![NPM download][download-image]][download-url]
 [![Gitter][gitter-image]][gitter-url]
 
-[npm-image]: https://img.shields.io/npm/v/nodinx.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/nodinx
+[npm-image]: https://img.shields.io/npm/v/nodinx-server.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/nodinx-server
 [travis-image]: https://img.shields.io/travis/eggjs/egg.svg?style=flat-square
 [travis-url]: https://travis-ci.org/eggjs/egg
 [codecov-image]: https://codecov.io/gh/eggjs/egg/branch/master/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/eggjs/egg
 [david-image]: https://img.shields.io/david/eggjs/egg.svg?style=flat-square
 [david-url]: https://david-dm.org/eggjs/egg
-[snyk-image]: https://snyk.io/test/npm/nodinx/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/nodinx
-[download-image]: https://img.shields.io/npm/dm/nodinx.svg?style=flat-square
-[download-url]: https://npmjs.org/package/nodinx
+[snyk-image]: https://snyk.io/test/npm/nodinx-server/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/nodinx-server
+[download-image]: https://img.shields.io/npm/dm/nodinx-server.svg?style=flat-square
+[download-url]: https://npmjs.org/package/nodinx-server
 [gitter-image]: https://img.shields.io/gitter/room/eggjs/egg.svg?style=flat-square
 [gitter-url]: https://gitter.im/eggjs/egg
 
 ## Installation
 
 ```bash
-$ npm install nodinx --save
+$ npm install nodinx-server --save
 ```
 
 Node.js >= 6.0.0 required.

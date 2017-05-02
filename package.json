@@ -1,5 +1,5 @@
 {
-  "name": "nodinx",
+  "name": "nodinx-server",
   "version": "1.2.0",
   "description": "A web framework's framework for Node.js",
   "keywords": [
