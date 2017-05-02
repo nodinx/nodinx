@@ -8,9 +8,12 @@
  * Start egg application with cluster mode
  * @since 1.0.0
  */
-exports.startCluster = require('egg-cluster').startCluster;
+exports.startCluster = require('nodinx-cluster').startCluster;
 
-exports.startApp = require('egg-cluster').startApp;
+/**
+ * Start egg worker without cluster mode
+ */
+exports.startApp = require('nodinx-cluster').startApp;
 
 /**
  * @member {Application} Egg#Application
